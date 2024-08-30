@@ -1,0 +1,7 @@
+esses são os arquivos do projeto 4, mandei tb os arq do projeto 3 para vc comparar, basicamente a lista duplamente encadeada é igual à outra lista, só que tem dois ponteiros um para frente e outro para trás
+
+boa sorte
+
+lembra de compilar eles no terminal com:
+    gcc -c fila.c main.c 
+    gcc main.o fila.o -o main.exe 

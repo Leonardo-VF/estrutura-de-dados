@@ -1,0 +1,14 @@
+1) Compilar primeiramente os arquivos "complex.c" e "tarefa-1.c" com o seguinte comando:
+
+    gcc -c complex.c
+    gcc -c tarefa-1.c
+
+2) Compilar os dois códigos em um exucutável a partir do comando:
+
+    gcc complex.o tarefa-1.o -c tarefa-1.exe
+
+3) Rodar o program com o seguinte comando:
+
+    ./tarefa-1.exe
+
+    
